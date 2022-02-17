@@ -15,7 +15,10 @@ Splunk
 - [Splunkenizer - Splunk Ansible Framework](https://github.com/splunkenizer/Splunkenizer)
 
 Linux
-- [xargs Command](https://shapeshed.com/unix-xargs/)
+- [xargs](https://shapeshed.com/unix-xargs/)
+- [tcpdump](https://danielmiessler.com/study/tcpdump/)
+- [find](https://www.oracle.com/technical-resources/articles/calish-find.html)
+- [netcat](https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections)
 
 ## 🧪 Interesting Projects
 - [DIY Stream Deck - Mini Macro Keyboard](https://www.partsnotincluded.com/diy-stream-deck-mini-macro-keyboard/)
