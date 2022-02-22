@@ -20,6 +20,14 @@ Linux
 - [find](https://www.oracle.com/technical-resources/articles/calish-find.html)
 - [netcat](https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections)
 
+## 🎙 Podcasts I Like
+- [Reply All](https://open.spotify.com/show/7gozmLqbcbr6PScMjc0Zl4): Interesting stories about the internet and more.
+- [Darknet Diaries](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5): Engaging stories about Cyber-Security and crime inspired by "Reply All".
+- [Crime Show](https://open.spotify.com/show/4IbS9vnPhqAhWRwLUv5d0i): Pure true crime.
+- [99% Invisible](https://open.spotify.com/show/2VRS1IJCTn2Nlkg33ZVfkM): Detailed stories about things that usually go unnoticed.
+- [Unsupervised Learning](https://open.spotify.com/show/0cIzWAEYacLz7Ag1n1YhUJ): Podcast by Daniel Miessler with weekly summaries of stories, new discoveries and other findings related to "security, technology, and society".
+- [The Bellingcat Podcast](https://open.spotify.com/show/27nuaoJWuSQMs47DamEEOO): Remarkable stories with in-depth investigations of real-world conflicts through the use of OSINT (Open-Source Intelligence).
+
 ## 🧪 Interesting Projects
 - [DIY Stream Deck - Mini Macro Keyboard](https://www.partsnotincluded.com/diy-stream-deck-mini-macro-keyboard/)
 - Custom Keyboard
