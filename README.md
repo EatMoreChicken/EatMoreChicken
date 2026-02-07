@@ -19,20 +19,6 @@ emlin@homelab:~$ cat /etc/interests
 
 ---
 
-<!-- SNAKE ANIMATION - Set up with GitHub Actions (see instructions below) -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EatMoreChicken/EatMoreChicken/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EatMoreChicken/EatMoreChicken/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/EatMoreChicken/EatMoreChicken/output/github-snake.svg" />
-</picture>
-
-<br/><sub>🐍 A snake eating my contribution graph. Yes, this is a real thing on GitHub.</sub>
-
-</div>
-
----
-
 ### `grep -i "what i build" ./projects`
 
 <table>
